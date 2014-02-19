@@ -17,5 +17,5 @@ Fully dressed use cases are very detailed and have a defined structure. This tem
 | Special Requirements                | Related non-functional requirements                       |
 | Technology and Data Variations List | Varying I/O methods and data formats                      |
 | Frequency of Occurrence             | Influences testing and timing of implementation           |
-| Miscellaneous  	                  | Open issues, or other                                     |
-|-------------------------------------|-----------------------------------------------------------|
+| Miscellaneous  	                    | Open issues, or other                                     |
+
